@@ -1,0 +1,6 @@
+node_modules/
+.env
+.env.*
+whatsapp-sessions/
+whatsapp-session/
+dist/
